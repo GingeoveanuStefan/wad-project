@@ -1,0 +1,5 @@
+home page
+browsing pages
+cart page
+checkout page
+confirmation page

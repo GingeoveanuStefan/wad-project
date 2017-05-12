@@ -1,0 +1,80 @@
+<Items>
+	<item>
+		<uid>GIT0022663-000</uid>
+		<name>Sigma Guitars DME Dreadnought Natural Satin</name>
+		<price>€ 269.00</price>
+		<description>The Sigma DME is already equipped with a solid spruce top in a dreadnought form which produces a warm, powerful bass with balanced mids and clear highs. The tuners guarantee tuning stability and the flat action delivers soft playability. With Sigma's own pickups with integrated tuners, this guitar is ready for the stage. What more do you want … and all of it is available at such a low price! </description>
+		<image>data/images/GIT0033179-000.jpg</image>
+		<category>guitar</category>
+	</item>
+
+
+	<item>
+		<uid>GIT0022663-000</uid>
+		<name>Fender Modern Player Tele Plus MN Charcoal Transparent</name>
+		<price>€ 498.00</price>
+		<description> Modern Player Series
+		Features: Model number: 024-1102-569 Pine Body Maple Neck "C" Neck shape 22 Jumbo Frets Scale length: 25,5"/ 648 mm Nut width: 1,65"/ 42 mm Modern Player Humbucker Bridge </description>
+		<image>data/images/GIT0022663-000.jpg</image>
+		<category>guitar</category>
+	</item>
+
+	<item>
+		<uid>GIT0019865-000</uid>
+		<name>Silvertone 1446 L Black Bigsby SN: 3033H1446 Bj.1963</name>
+		<price>€ 2,499.00</price>
+		<description>    Manufacturer: Silvertone
+		Colour: Black
+		Finish: Aged
+		Body: Maple
+		Neck Construction: Bolt-on
+		Neck: Maple
+		Fretboard: Rosewood
+		Fretboard Radius in Inches: 10
+		Fretboard Inlays: Block
+		Number of Frets: 20
+		Fret Format: Vintage
+		Nut width in mm: 44.5
+		Scale in mm: 610
+		Pickup: HH
+		Manufacturer pickups: Gibson
+		Switch: 3-Way
+		Control: 2x Vol, 2x Tone
+		Number of Strings: 6
+		Bridge: Bigsby
+		Tuners: Vintage-Style</description>
+		<image>data/images/GIT0019865-000.jpg</image>
+		<category>guitar</category>
+	</item>
+	
+	<item>
+		<uid>PIA0000783-000</uid>
+		<name>Yamaha B2E PE Piano 113cm Black</name>
+		<price>€ 4,650.00</price>
+		<description>Features:
+		Dimensions Width 149cm Height 113cm Depth 53cm Weight 194kg </description>
+		<image>data/images/PIA0000783-000.jpg</image>
+		<category>piano</category>
+	</item>
+
+	<item>
+		<uid>BAS052</uid>
+		<name>SET Epiphone EB-3 Bass Cherry + Fame PL-60 B Combo + Kabel</name>
+		<price>€ 406.42</price>
+		<description> Set contains
+		1x Epiphone EB-3 SG Style Bass Guitar, Che rry
+		1x Fame Megatone PL-60 B Bass Combo 60 Watt, 1x12" Speaker
+		1x MUSIC STORE Instrument Cable Jack 6m Standard</description>
+		<image>data/images/BAS052.jpg</image>
+		<category>bass</category>
+	</item>
+	
+	<item>
+		<uid>DRU0027216-000</uid>
+		<name>Pearl Export EXX705Z/C, Jet Black #32</name>
+		<price>€ 759.00</price>
+		<description> </description>
+		<image>data/images/DRU0027216-000.jpg</image>
+		<category>percussion</category>
+	</item>
+</Items>
